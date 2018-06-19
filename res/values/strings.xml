@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">MP3下载应用程序</string>
+    <string name="market_url">com.euroasiamp3.cn</string>
+    <string name="footer_message">您正在使用版本V1.0.7的MP3下载应用程序</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        官方允许本软件的使用只限于语音文件自由地适用于公共网域！您同意使用此软件时须受居住国家的法律条款和框架所约束、并谷歌安卓市场(Google Android Market)部和电信运营商的服务条款。本软件纯粹是一个通往公共搜索引擎的接口。欧亚新加坡不须为滥用的情况承担责任。这软件工具是严格禁止作非法使用。阁下个人须为自己的行为负责。 (此中文协议内容为英文版本译本，如中、英文两个版本有任何抵触或不相符之处，应以英文版本为准)。
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">观看视频</string>
+	<string name="topappsurl">http://reservations.mobile-hospitality.com/?Mobile=1</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">搜索</string>
+    <string name="btn_topten_name">热门歌曲</string>
+    <string name="btn_downloads_name">下载</string>
+    <string name="btn_rate_name">评价应用程序</string>
+    <string name="btn_share_name">共享应用程序</string>
+    <string name="btn_cancel_name">取消</string>
+    <string name="download_song">下载歌曲</string>
+    <string name="share_song">共享歌曲</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">输入歌曲或歌手名称</string>
+    
+    <!-- Names -->
+    <string name="no_results">结果找不到</string>
+    <string name="error_results">下载结果发生错误</string>
+    <string name="no_active">这现像似乎是您没有有效的互联网链接或较微弱信号的链接。请打开您的wifi或数据链接，然后再试一次。</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">支付这首歌曲</string>
+    <string name="dlmessage">嘿!下载这首歌曲吧:)</string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">歌曲下载失败。请再试一次!</string>
+    <string name="addedqueue">添加到下载清单内</string>
+</resources>
